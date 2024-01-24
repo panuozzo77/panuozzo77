@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/panuozzo77/panuozzo77/blob/main/assets/gh-readme-header.png"><img width="80%" alt="Hello, I'm Cristian I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/panuozzo77/panuozzo77/blob/main/assets/gh-readme-head.png"><img width="80%" alt="Hello, I'm Cristian I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
