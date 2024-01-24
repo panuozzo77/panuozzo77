@@ -2,12 +2,23 @@
 
 <br />
 
-I'm a CS student at University of Salerno in :it:
+I am 21 and studying at the University of Salerno in :it: 
 
-**About me**
+**About me** ❤️ 
 
-- ❤️ I love writing Java, JavaScript and Python and building fun experiments on almost every topic
+-    I love writing in Java, Python, C, JavaScript and building fun experiments on almost everything.
+-    I'm an enthusiast Linux User, I own a personal home-made server and many VPS for my experiments, all my PCs have distros installed.
+-    I enjoy much working with Databases.
+-    I use Notion and Markdown language to write documentation or notes. But I also use fountain pens when writing on paper, the old fashioned way.
+  <br />
 
+**My course of study is centered on:**  
+
+
+1. Machine Learning
+2. Advanced Programming (GoF Design Patterns and Multithreading)
+3. Software Engineering
+4. Security
 - 💬 Ask me about anything [here](https://github.com/panuozzo77/panuozzo77/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
