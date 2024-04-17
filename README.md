@@ -2,7 +2,7 @@
 
 <br />
 
-I am 21 and studying at the University of Salerno in :it: 
+I am 22 and studying at the University of Salerno in :it: 
 
 **About me** ❤️ 
 
