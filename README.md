@@ -19,14 +19,12 @@ I am 22 and studying at the University of Salerno in :it:
 2. Advanced Programming (GoF Design Patterns and Multithreading)
 3. Software Engineering
 4. Security
-- 💬 Ask me about anything [here](https://github.com/panuozzo77/panuozzo77/issues)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+**Contact info:**
+- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.porzio02@gmail.com)
+- [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cristian_porzio)
+- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-porzio/)
+- 💬 [Ask me about anything here](https://github.com/panuozzo77/panuozzo77/issues)
 
 | <a href="https://github.com/panuozzo77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=panuozzo77&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/panuozzo77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panuozzo77&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
