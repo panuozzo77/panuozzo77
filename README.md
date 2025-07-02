@@ -9,7 +9,7 @@ I am 22 and studying at the University of Salerno in :it:
 -    I love writing in Java, Python, C, JavaScript and building fun experiments on almost everything.
 -    I'm an enthusiast Linux User, I own a personal home-made server and many VPS for my experiments, all my PCs have distros installed.
 -    I enjoy much working with Databases.
--    I use Notion and Markdown language to write documentation or notes. But I also use fountain pens when writing on paper, the old fashioned way.
+-    I use Obsidian and Markdown language to write documentation or notes. But I also use fountain pens when writing on paper, the old fashioned way.
   <br />
 
 **My course of study is centered on:**  
