@@ -1,0 +1,14 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# Bundler
+vendor/bundle/
+.bundle/
+
+# Altro
+*.gem
+*.rbc
+*.swp
+.DS_Store
