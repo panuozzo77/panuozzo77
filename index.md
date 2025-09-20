@@ -64,7 +64,7 @@ Notebook con cui ho trovato un escamotage per rendere raggiungibile l'API di Oll
 ## Competenze Tecniche
 
 *   **Linguaggi:** Python, Java, JavaScript, C, C++, SQL, HTML, CSS, R, Markdown, LaTeX
-*   **Framework e Librerie:** Spring Boot, Vue.js, SciKit-Learn, JUnit, Mockito
+*   **Framework e Librerie:** Spring Boot, SciKit-Learn, JUnit, Mockito
 *   **DevOps, Cloud e DB:** Docker, MySQL, Oracle Cloud, Google Cloud, Azure, Apache Tomcat, SonarCloud, Git
 *   **Metodologie:** Agile, TDD, CI/CD, SOLID, Clean Code
 
