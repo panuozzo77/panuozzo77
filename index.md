@@ -23,7 +23,7 @@ Progettazione e implementazione di un'architettura modulare per l'arricchimento 
 
 ## Progetti Universitari
 
-Questa è una selezione dei progetti a cui ho lavorato durante i miei studi.
+Questa è una selezione dei progetti <ins>collaborativi</ins> a cui ho lavorato durante i miei studi.
 
 ### [TALKAID](https://github.com/pastore99/TalkAId) | Supporto Logopedico Online (2023-2024)
 Applicazione web per il supporto remoto ai trattamenti di patologie legate ai disturbi del linguaggio, attraverso giochi di pronuncia e dettato,  progettata per facilitare la collaborazione tra logopedisti e pazienti.<br>
