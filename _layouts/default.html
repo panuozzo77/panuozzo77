@@ -7,7 +7,8 @@
     <title>{{ site.title }}{% if page.title and page.title != "" %} | {{ page.title }}{% endif %}</title>
     <meta name="description" content="{{ page.description | default: site.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -53,12 +54,14 @@
 
 
         </ul>
-        
-        <!--{% if site.github.is_user_page %}-->
-          <ul>
-            <li><a class="buttons" href="{{ site.github.owner_url }}">Profilo GitHub</a></li>
-          </ul>
-        <!--{% endif %}-->
+        <!--
+        <hr>
+        <p><strong>Indice della pagina</strong></p>
+        <ul id="toc-nav">
+    
+        -->
+        </ul>
+        <hr>
       </header>
       <section>
 
@@ -66,12 +69,26 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-          <p>Questa pagina è gestita da Cristian Porzio, aka <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hostato su GitHub Pages &mdash; Tema di <a href="https://github.com/orderedlist">orderedlist</a> opportunamente tweakato</small></p>
+        <p><small>Gestito da Cristian Porzio, aka <a href="{{ site.github.owner_url }}"> {{ site.github.owner_name }} <br> Hostato su GitHub Pages <br> &mdash; Tema di <a href="https://github.com/orderedlist">orderedlist</a> opportunamente tweakato</small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var tocNav = document.getElementById('toc-nav');
+        var headers = document.querySelectorAll('section h1, section h2');
+        var tocList = '';
+
+        headers.forEach(function(header, index) {
+          var id = 'header-' + index;
+          header.id = id;
+          var listItem = '<li><a href="#' + id + '">' + header.textContent + '</a></li>';
+          tocList += listItem;
+        });
+
+        tocNav.innerHTML = tocList;
+      });
+    </script>
   </body>
 </html>

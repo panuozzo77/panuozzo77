@@ -1,0 +1,38 @@
+/* Aggiungi spazio tra header e footer per evitare sovrapposizioni */
+section {
+  margin-bottom: 100px; /* Spazio base per desktop */
+}
+
+@media (max-width: 1200px) {
+  section {
+    margin-bottom: 300px; /* Spazio maggiore per tablet */
+  }
+}
+
+/* Aumenta lo spazio su schermi più piccoli per evitare sovrapposizioni */
+@media (max-width: 768px) {
+  section {
+    margin-bottom: 150px; /* Spazio maggiore per tablet */
+  }
+}
+
+@media (max-width: 480px) {
+  section {
+    margin-bottom: 200px; /* Spazio maggiore per mobile piccoli */
+  }
+}
+
+/* Stile per la griglia 2x2 dei link mantenendo le liste puntate */
+/*
+header ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+*/
+
+/* Evita la sovrapposizione del footer sull'indice */
+header {
+    padding-bottom: 70px; /* Spazio per il footer */
+    overflow-y: auto; /* Abilita lo scroll verticale se necessario */
+}
