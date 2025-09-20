@@ -61,6 +61,17 @@ Notebook con cui ho trovato un escamotage per rendere raggiungibile l'API di Oll
 
 ---
 
+## Repository Didattiche
+Credo fortemente nella condivisione del sapere. L'informazione deve essere libera ed accessibile a tutti. Per questo motivo, durante il mio percorso ho curato diverse repository dove ho raccolto ed organizzato gli appunti, esami ed esercizi.
+
+Utilizzo Markdown ed Obsidian per rendere i materiali chiari, strutturati e facilmente consultabili.
+
+### [Programmazione Avanzata](https://github.com/panuozzo77/AdvancedProgramming)
+### [Programmazione Distribuita](https://github.com/panuozzo77/DistributedProgramming)
+### [Programmazione ad Oggetti](https://github.com/panuozzo77/ObjectOrientedProgramming)
+
+---
+
 ## Competenze Tecniche
 
 *   **Linguaggi:** Python, Java, JavaScript, C, C++, SQL, HTML, CSS, R, Markdown, LaTeX
