@@ -5,7 +5,7 @@ title: Landing Page
 
 ## Ciao, sono Cristian 👋
 
-Sono uno sviluppatore software con una profonda passione per la materia, che coltivo fin dall'età di 14 anni. Il mio percorso accademico e i miei progetti personali si sono concentrati su aree chiave come il **Machine Learning**, l'**Ingegneria del Software**, i **Design Pattern** e la **Programmazione Concorrente**.
+Sono uno sviluppatore software nato nel 2002 con una profonda passione per la materia, che coltivo fin dall'età di 14 anni. Il mio percorso accademico e i miei progetti personali si sono concentrati su aree chiave come il **Machine Learning**, l'**Ingegneria del Software**, i **Design Pattern** e la **Programmazione Concorrente**.
 
 Sempre alla ricerca di nuove sfide per applicare od ampliare le mie conoscenze e crescere professionalmente.
 
@@ -54,7 +54,7 @@ __Tecnologie:__ Python
 
 ### [Tic-Tac-Toe RL](https://github.com/panuozzo77/ttt-rl-C_and_react)
 È un progetto che combina Reinforcement Learning (RL) con un’interfaccia web, per realizzare un giocatore (agente) che impara a giocare a Tic-Tac-Toe. È basato su un progetto precedente di Salvatore Sanfilippo, sull'idea di MENACE di Donald Michie.<br>
-__Tecnologie:__ C, 
+__Tecnologie:__ C 
 
 ### [Ollama in Google Colab](https://github.com/panuozzo77/colab-ollama-webui)
 Notebook con cui ho trovato un escamotage per rendere raggiungibile l'API di Ollama eseguita su Colab all'esterno 🤫. 
