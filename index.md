@@ -21,6 +21,10 @@ Progettazione e implementazione di un'architettura modulare per l'arricchimento 
 
 ---
 
+## [Qui pubblico cosa sto studiando](studying.md)
+
+
+---
 ## Progetti Universitari
 
 Questa è una selezione dei progetti <ins>collaborativi</ins> a cui ho lavorato durante i miei studi.
